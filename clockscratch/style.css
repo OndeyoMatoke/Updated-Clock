@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(88, 162, 227);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+h1 {
+    letter-spacing: 3px;
+    color: white;
+}
+
+#clock {
+    display: flex;
+}
+
+#clock div {
+    margin: 0.5px;
+}
+
+#clock span{
+    height: 70px;
+    width: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    border-radius: 4px;
+}
