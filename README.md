@@ -1,2 +1,2 @@
 # Updated-Clock.
-Watch displaying time in real time.
+Global clock built using Javascript, HTML, and CSS
