@@ -7,7 +7,7 @@ const element3 = document.getElementById("seconds");
 
 function clock() {
     let h = new Date().getHours();
-    let m = new Date().getHours();
+    let m = new Date().getMinutes();
     let s = new Date().getSeconds();
     //let ampm = "AM"
 
